@@ -1,1 +1,2 @@
 first day practical in git
+second line of code to the update in remote repo
